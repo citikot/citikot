@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @citikot
+- 👋 Hi, I’m Alex.
 - 👀 I’m interested in backend and blockchain development.
 - 🌱 I’m currently learning Java and some frontend.
 - 📫 How to reach me: citikot ( at ) dr (dot) com
