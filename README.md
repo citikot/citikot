@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Alex.
-- 👀 I’m interested in backend and blockchain development.
-- 🌱 I’m learning Java, some frontend and basics of CySec and cryptography.
+- 👀 I’m backend Java developer.
+- 🌱 I’m mastering Java, some frontend and basics of blockchain, CySec and cryptography.
 - 📫 How to reach me: citikot ( at ) dr (dot) com
 
 <!---
